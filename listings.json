@@ -2,6 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/No ML Degree/No ML Degree - Introduction Notes.html",
+      "/posts/No ML Degree/No ML Degree - Part Two Notes.html",
+      "/posts/No ML Degree/No ML Degree - Part One Notes.html",
       "/posts/post-with-code/index.html",
       "/posts/hello-world/hello world.html",
       "/posts/welcome/index.html"

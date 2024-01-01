@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "anteemony.github.io",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nHello World!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2023\n\n\nOkonneh Anthony\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "No ML Degree - Introduction Notes\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nAnthony Okonneh\n\n\n\n\n\n\n  \n\n\n\n\nNo ML Degree - Part Two Notes\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nAnthony Okonneh\n\n\n\n\n\n\n  \n\n\n\n\nNo ML Degree - Part One Notes\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nAnthony Okonneh\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nHello World!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2023\n\n\nOkonneh Anthony\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -14,11 +14,18 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/No ML Degree/No ML Degree - Part Two Notes.html",
+    "href": "posts/No ML Degree/No ML Degree - Part Two Notes.html",
+    "title": "No ML Degree - Part Two Notes",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Notes from the book No ML Degree by Emil Wallner\nThe guide provided is for self-learners looking for their first ML job. But is also valuable for recent graduates and ML practitioners who want to stay up to date as ML evolves.\nHere’s what the career journey of a self-learner can look like."
+  },
+  {
+    "objectID": "posts/No ML Degree/No ML Degree - Part Two Notes.html#learning-machine-learning",
+    "href": "posts/No ML Degree/No ML Degree - Part Two Notes.html#learning-machine-learning",
+    "title": "No ML Degree - Part Two Notes",
+    "section": "Learning Machine Learning",
+    "text": "Learning Machine Learning\nThe are two challenges: * Having a good enough resume to get interviews (Focus on this) * Passing the interview and getting an offer.\nIt’s unreasonable to both have a strong no-degree resume and also be competitive in theory-heavy interviews.\nThere are enough ML opportunities that have practical interviews and light theroy requirements. It’s best to focus on those gigs and maintain momentum. Work experience will give you a significant boost in later job hunts.\nSo the goal for those three months are to:\n\nLearn data-centric problem-solving tools.\nIdentify, scope, communicate and solve problems.\nBuild a portfolio with externally validated results.\nGain a light overview of ML and statistics.\n\nA strong portolio weighs heavier than a boot camp graduation. Boot camps can be inconvenient and expensive also. * Nano Degrees\nCloud Specific ML Certificates(Customer-centric roles for specific cloud providers find this useful) * GCP * Azure * AWS\n\nPractical ML Courses\nPick a practical ML course and study it for one month. You might think that one month of ML is not enough to build your projects. But it is. You’ll be rusty and need to check things frequently, but you have enough to start soving data problems.\nSolid practical ML courses for coders include * FastAI * Kaggle’s 30 days of code.\nIt’s less important if you use a paid solution, an open-source library, write models from scratch or know all the theory.\nWhat matters is spotting potential risks and weaknesses with your solutions and lerning how to mitigate them. That’s what modern learning is.\nThe things you want to learn include:\n\nProblem Solving\n\nKnow the domain of problems ML can and can’t solve.\nKnow when you should use paid APIs, open-source or custom solutions.\nBasic Awareness of how your model impacts a business including privacy, UI/UX, legal, ethics and their business model.\nCommunicating expectations and timelines to technical and non-technical stakeholders.\nHow and when to mitigate risk from your inexperience.\n\n\n\nData\n\nUnderstanding what data is available to you and how to get more.\nExtracting, visualizing, cleaning and loading data.\nUnderstand the data and make informed decisions based on it.\n\n\n\nModels\n\nUnderstanding the type of problem and how to find a solution.\nSetting and measuring appropriate objectives and success criteria.\nQuickly reaching a baseline.\nTraining models with state-of-the-art results.\nFast and efficient debugging.\nVisualizing model performance.\nDeploying models and understanding memory, cost, queries-per-second, and latency.\n\nThis might seem like a lot, but they are often a byproduct of building an industry-standard portfolio.\nAfter your month-long practical course including looking things up on various sources, your focus should be 90% on your portfolio.\nYou need a resume as soon as possible.\n\n\n\nBreadth, Credibility, and Edge\nDeep Learning is the most exciting area and as the most future potential. Classic machine learning approaches are rarely used by the author although they are common in the industyr and are often used in interviews.\nIn the evenings, it’s worth exploring one or two videos from * StatQuests’ the Basics (of statistics) * StatQuests’ the Basics of Mahcine Learning\nYou can use Anki to memorize the key concepts in these videos.\nThis enables you to acquire a vocabulary and mindset that’s often used to discuss data-related problems. Having a light overview also makes you aware of certain risks and wher you can learn more to mitigate them.\nFor your portfolio, you have two types of portfolio projects. * Degree equivalent projects ( 1-3 months long result-driven projects that give you credibility ) * Talent projects ( 1-4 week open projects that make you stand out )\nThe first is what makes employers invite you to interviews, They give you evidence that you can do the job. Talent projects are both great for marketing yourself and making you stand out in the interview process.\nHowever, if you only have shiny talent projects, many employers will doubtthat you can do the daily grunt work to deliver on projects."
   },
   {
     "objectID": "posts/hello-world/hello world.html",
@@ -26,6 +33,41 @@
     "title": "Hello World!",
     "section": "",
     "text": "Hello World!"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/No ML Degree/No ML Degree - Introduction Notes.html",
+    "href": "posts/No ML Degree/No ML Degree - Introduction Notes.html",
+    "title": "No ML Degree - Introduction Notes",
+    "section": "",
+    "text": "Notes from the book No ML Degree by Emil Wallner\nThe guide provided is for self-learners looking for their first ML job. But is also valuable for recent graduates and ML practitioners who want to stay up to date as ML evolves.\nHere’s what the career journey of a self-learner can look like."
+  },
+  {
+    "objectID": "posts/No ML Degree/No ML Degree - Introduction Notes.html#the-recipe-to-fail",
+    "href": "posts/No ML Degree/No ML Degree - Introduction Notes.html#the-recipe-to-fail",
+    "title": "No ML Degree - Introduction Notes",
+    "section": "The Recipe To Fail",
+    "text": "The Recipe To Fail\n\nEffective self-learning mimics what ML professionals do on a daily basis.\nAs a self learner, do not do the opposite of this. Do not get stuck in long lists of online courses and certifications.\nOnline courses have a small impact on employment attractiveness. Same with certifications as there is no way to tell if you really worked for it or cheated.\nThe problem with certifications also applies to portfolios. Many applicants copy-paste or tweak existing projects so it’s hard to tell the difference between real and low-effort projects.\nFor companies, it’s too risky to advance candidates without evidence of being hireable.\nPopular positions are your first option, but you are not their first. With hundereds or even thousands of applicants per position, the resume lotteries favour the university graduates.\nThis rejection makes self learners lose motivation and confidence. They begin to feel overwhelmed with all that’s to be learned in order to get a job.\nThere are far better ways to land an ML job."
+  },
+  {
+    "objectID": "posts/No ML Degree/No ML Degree - Part One Notes.html",
+    "href": "posts/No ML Degree/No ML Degree - Part One Notes.html",
+    "title": "No ML Degree - Part One Notes",
+    "section": "",
+    "text": "Notes from the book No ML Degree by Emil Wallner\nThe guide provided is for self-learners looking for their first ML job. But is also valuable for recent graduates and ML practitioners who want to stay up to date as ML evolves.\nHere’s what the career journey of a self-learner can look like."
+  },
+  {
+    "objectID": "posts/No ML Degree/No ML Degree - Part One Notes.html#programming-paths",
+    "href": "posts/No ML Degree/No ML Degree - Part One Notes.html#programming-paths",
+    "title": "No ML Degree - Part One Notes",
+    "section": "Programming Paths",
+    "text": "Programming Paths\nRegardless of which programming path you choose, aim for at least 6 - 24 months of study and work experience in order to get a good foundation\n\nNo-degree Tech Schools and Online Courses\n\nCodeacademy\nScrimba\nfreeCodeCamp\n42 network (peer-to-peer)\nHolberton School (an alternative to 42 network)\n\n\n\nBoot Camps\n\nHigh Ranking Boot Camps\n\n\n\nComputer Science\n90% of today’s models are trained and deployed on servers. Most of the work is focused on making the data, training and production process faster by improving efficiency and organization.\nA practical CS curriculum with a focus on projects and programming is a solid base. Specializations include security, DevOps, back-end, and graphics. Work with Python as you’ll mostly be working with it when you move into ML.\n\n\nFront-end and Mobile\nLess common entries into ML, but still with benefits. e.g. cost, latency and privacy benefits to running ML models on personal computers and phones. Client inference and optimization are valid entry-points into ML. Although only 10% of the ML inference happens on the client today, it is expected to increase in the near future.\nThe major shifts in the client-side are: * Human-in-the-loop * Prompt engineering * Active learning * Creating smaller intermediate models, workflows and programs to interact with server-side models is important. * It’s worth looking into Neural Radience Fields and Browser Rendering.\nOn the tech side, look into * TensorflowJS, * ONNX.JS * Eigen (C++) compiled with Web Assembly * PyScript"
   },
   {
     "objectID": "about.html",
